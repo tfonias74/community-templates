@@ -31,7 +31,7 @@ zabbix_export:
         
       groups:
         -
-          name: 'Pool Printer Kyocera'
+          name: 'Pool Printer Talay Kyocera'
       items:
         -
           uuid: ac6b7867f7b44253b147191bf6618063
